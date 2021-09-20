@@ -1,0 +1,74 @@
+body{
+    /* font-family: 'Poppins', sans-serif; */
+    margin: 0;
+
+}
+main{
+    width: 1200px;
+    max-width: 90%;
+}
+.slider-bg{
+    background-color:#f8e6b3;
+}
+.container-fluid img{
+    width: 40%;
+}
+.slide-title{
+    color: #FABE4C;
+    font-size: 40px;
+}
+.highlight{
+    color:#FABE4C; 
+}
+h1{
+    font-size: 50px;
+    font-weight: 900;;
+}
+
+.btn-slide{
+    width: 150px;
+    height: 50px;
+    border-radius: 5px;
+    color: white;
+    background-color: #FA804C;
+    border: 0;
+}
+h2{
+    font-weight: bold;
+}
+
+.latest-bg-img{
+    width: 200px;
+    height: 250px;
+    margin-top: 20px;
+    margin-left: 30px;
+    border-radius: 30px;
+    background-color: #EFEFEF;
+}
+.penguin-card, .penguin-card-footer{
+    border: 0;
+}
+.latest-penguin-card{
+    border: 0;
+    padding: 10px;
+    border-radius: 10px;
+}
+.latest-penguin-card img{
+    width: 300px;
+    height: 350px;
+    display: block;
+}
+.price{
+    color: tomato;
+    font-weight: bold;
+    font-size: 25px;
+}
+.penguin-card img{
+    width: 300px;
+    height: 350px;
+    display: block;
+    margin-top: 20px;
+    border-radius: 5px;
+    background-color: rgb(206, 204, 202);
+    padding: 10px;
+}
